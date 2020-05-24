@@ -1,0 +1,55 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "title": "Görevler",
+      "link": "tasks",
+      "icon": "",
+      "canSee": true,
+      "canUse": true
+    },
+    {
+      "id": 2,
+      "title": "Dronelar",
+      "link": "drones",
+      "icon": "",
+      "canSee": true,
+      "canUse": false
+    },
+    {
+      "id": 3,
+      "title": "Merkezler",
+      "link": "places",
+      "icon": "",
+      "canSee": true,
+      "canUse": false
+    },
+    {
+      "id": 4,
+      "title": "Raporlar",
+      "link": "reports",
+      "icon": "",
+      "canSee": true,
+      "canUse": true
+    },
+    {
+      "id": 5,
+      "title": "Görünmemesi Gereken Menü",
+      "link": "test",
+      "icon": "",
+      "canSee": false,
+      "canUse": false
+    }
+  ],
+  "drones": [
+    {
+      "latest": [
+      {
+        "latest": 1,
+        "body": "some comment",
+        "postId": 1
+       }
+      ]
+    }
+  ]
+}
