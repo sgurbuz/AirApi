@@ -44,11 +44,38 @@
   "drones": [
     {
       "latest": [
-      {
-        "latest": 1,
-        "body": "some comment",
-        "postId": 1
-       }
+        {
+          "latest": 1,
+          "body": "some comment",
+          "postId": 1
+        },
+        {
+          "latest": 1,
+          "body": "some comment",
+          "postId": 1
+        },
+        {
+          "latest": 1,
+          "body": "some comment",
+          "postId": 1
+        }
+      ],
+      "all": [
+        {
+          "latest": 1,
+          "body": "some comment",
+          "postId": 1
+        },
+        {
+          "latest": 1,
+          "body": "some comment",
+          "postId": 1
+        },
+        {
+          "latest": 1,
+          "body": "some comment",
+          "postId": 1
+        }
       ]
     }
   ]
